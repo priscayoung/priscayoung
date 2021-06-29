@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priscayoung
 - 👀 I’m interested in application and game programming using java 
-- 🌱 I’m currently learning python, angular algorithm designs
+- 🌱 I’m currently learning python, angular, and algorithm designs
 - 💞️ I’m looking to collaborate on a java gaming project
 - 📫 How to reach me via email: printhoster@gmail.com
 
